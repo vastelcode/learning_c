@@ -1,0 +1,8 @@
+PING google.com (142.250.102.102) 56(84) bytes of data.
+64 bytes from rb-in-f102.1e100.net (142.250.102.102): icmp_seq=1 ttl=106 time=36.8 ms
+64 bytes from rb-in-f102.1e100.net (142.250.102.102): icmp_seq=2 ttl=106 time=36.7 ms
+64 bytes from rb-in-f102.1e100.net (142.250.102.102): icmp_seq=3 ttl=106 time=36.7 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 36.653/36.717/36.754/0.045 ms
